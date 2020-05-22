@@ -71,7 +71,7 @@ def Mostrar_Contactos():
     pass
 def Serializar_Contacto():
     pass
-
+v
 #primero se cargaran los contactos del archivo csv
 Cargar_Archivo()
 #se muestra el menu principal
